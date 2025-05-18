@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SmartSignProject
 
 # Dự án Ký hợp đồng điện tử
@@ -16,3 +17,6 @@
 
 ## Thông tin khác
 ...
+=======
+# StructureJavaSpringboot
+>>>>>>> 37b5277425359d6c98c74f92483845da2b24e1ff
